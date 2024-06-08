@@ -1,11 +1,11 @@
-# Multi-Account Containers Localization
+# Tab Containers Localization
 
-![Linter status](https://github.com/mozilla-l10n/multi-account-containers-l10n/workflows/L10n%20Linter/badge.svg)
+![Linter status](https://github.com/hwknsj/multi-account-containers-l10n/workflows/L10n%20Linter/badge.svg)
 
-Localization for the Firefox Multi-Account Containers add-on
+Localization for the Tab Containers add-on
 
 The application code with build instructions can be found
-at <https://github.com/mozilla/multi-account-containers>.
+at <https://github.com/hwknsj/tab-containers>.
 
 Contributions can happen from [Pontoon](https://pontoon.mozilla.org/projects/firefox-multi-account-containers/).
 
